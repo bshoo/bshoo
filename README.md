@@ -2,7 +2,10 @@
 ## This is the Github profile of Shashank B Sharma 
 
 🌍  I'm from Bengaluru
-  
+
+<p>
+  Here, you will find my attempts at understanding some languages, tools and concepts. Feel free to look around and corect me where I've gone wrong.
+</p>
 <!--
 **bshoo/bshoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
