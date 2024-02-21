@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/bshoo/bshoo/assets/69185105/6038c817-977e-4282-9dae-792e5376e40d) 
+## This is the Github profile of Shashank B Sharma 
 
+- 🌍  I'm from Bengaluru
+- 
 <!--
 **bshoo/bshoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
